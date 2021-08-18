@@ -1,0 +1,5 @@
+Esse é um arquivo de testes.
+Segunda linha.
+123/456
+*&*()@!#.
+Linha final.
